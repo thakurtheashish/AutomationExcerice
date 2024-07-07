@@ -51,7 +51,7 @@ public class AutomationExercisePageTest extends TestBase{
 		return loginData;
 	}
 	
-	@Test(enabled = false)
+	@Test(priority = 1)
 	public void validateAddToCartFunctionality() throws InterruptedException {
 		automationExercisePage = signupLogin.enterLoginInfo("1example@email.com", "abc123");
 		automationExercisePage.addItemToCart("men tshirt");
@@ -62,7 +62,7 @@ public class AutomationExercisePageTest extends TestBase{
 		
 	}
 
-	@Test(enabled = false)
+	@Test(priority = 2)
 	public void validatePlaceOrderFunctionality() {
 		automationExercisePage = signupLogin.enterLoginInfo("1example@email.com", "abc123");
 		checkoutPage = automationExercisePage.clickcartBtn();

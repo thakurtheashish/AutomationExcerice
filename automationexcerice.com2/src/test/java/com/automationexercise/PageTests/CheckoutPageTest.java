@@ -23,9 +23,13 @@ public class CheckoutPageTest extends TestBase{
 		signupLogin = new SignupLoginPage();
 	}
 	
-	@Test(enabled = false)
+	@Test()
 	public void validateRemoveItemFromCheckout() {
 		automationExcersiePage = signupLogin.enterLoginInfo("1example@email.com", "abc123");
+		automationExcersiePage.addItemToCart("men tshirt");
+		automationExcersiePage.waitForModalAndContSHopping();
+		automationExcersiePage.addItemToCart("blue top");
+		automationExcersiePage.waitForModalAndContSHopping();
 		checkoutPage = automationExcersiePage.clickcartBtn();
 		checkoutPage.removeItemFromCart("blue top");
 		checkoutPage.removeItemFromCart("men tshirt");

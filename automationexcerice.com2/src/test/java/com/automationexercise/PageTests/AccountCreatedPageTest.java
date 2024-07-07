@@ -25,7 +25,7 @@ public class AccountCreatedPageTest extends TestBase {
 
 	@Test(enabled = false)
 	public void validateAccountCreationFunctionality() {
-		signup = signupLogin.enterSignupInfo("Ash", "14email@email.com");
+		signup = signupLogin.enterSignupInfo("Ash", "15email@email.com");
 		accountCreatedPage = signup.signUpInformation("abc123", "5", "6", "2002", "Ash", "Thakur", "TD", "123 45St", "NW", "Canada", "AB",
 				"Edmonton", "T5z12as", "123456789");
 		String accCreatedText = accountCreatedPage.getAccCreatedtext();
