@@ -1,0 +1,1002 @@
+2024-06-30 21:12:24 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-06-30 21:12:26 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-06-30 21:12:26 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:12:26 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:12:26 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:12:27 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:12:27 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:12:27 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:12:27 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:12:27 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:12:27 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:12:27 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:12:29 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:12:29 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:12:29 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:12:30 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:12:30 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:12:30 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:12:30 INFO  TestBase:100 - Clicking on element:  Contact us
+2024-06-30 21:14:26 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-06-30 21:14:30 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-06-30 21:14:30 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:14:30 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:14:30 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:14:30 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:14:31 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:14:31 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:14:31 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:14:31 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:14:31 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:14:31 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:14:33 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:14:33 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:14:33 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:14:33 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:14:34 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:14:34 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:14:34 INFO  TestBase:100 - Clicking on element:  Contact us
+2024-06-30 21:22:25 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-06-30 21:22:28 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-06-30 21:22:28 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:22:28 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:22:28 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:22:28 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:22:28 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:22:28 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:22:28 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:22:28 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:22:28 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:22:28 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:22:30 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:22:30 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:22:30 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:22:30 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:22:30 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:22:30 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:22:30 INFO  TestBase:100 - Clicking on element:  Contact us
+2024-06-30 21:24:49 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-06-30 21:24:53 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-06-30 21:24:53 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:24:53 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:24:53 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:24:53 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:24:53 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:24:53 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:24:53 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:24:53 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:24:53 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:24:53 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:24:58 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:24:58 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9)
+2024-06-30 21:24:58 INFO  TestBase:100 - Clicking on element:  Contact us
+2024-06-30 21:27:09 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-06-30 21:27:13 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-06-30 21:27:13 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:27:13 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:27:13 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:27:14 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:27:14 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:27:14 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:27:14 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:27:14 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:27:14 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:27:14 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:27:19 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-06-30 21:27:19 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-06-30 21:27:19 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-06-30 21:27:19 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-06-30 21:27:19 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-06-30 21:27:19 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-06-30 21:27:19 INFO  TestBase:100 - Clicking on element:  Contact us
+2024-06-30 21:28:39 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-06-30 21:28:39 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-06-30 21:28:42 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-06-30 21:28:42 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:28:44 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:28:45 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:28:45 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:28:48 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:28:48 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:28:48 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:28:48 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:28:48 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:28:49 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:28:49 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-06-30 21:28:49 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:28:50 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-06-30 21:28:52 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:28:52 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-06-30 21:28:52 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:28:52 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:28:52 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:28:52 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:28:52 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:28:52 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-06-30 21:28:57 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-06-30 21:28:57 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-06-30 21:28:57 INFO  TestBase:100 - Clicking on element:  Contact us
+2024-06-30 21:28:58 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-06-30 21:28:58 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-06-30 21:28:58 INFO  TestBase:100 - Clicking on element:  Contact us
+2024-07-01 07:36:41 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 07:36:45 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 07:36:45 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 07:36:45 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 07:36:45 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 07:36:45 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 07:36:46 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:36:46 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:36:46 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:36:46 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:36:46 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:36:46 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:36:48 INFO  TestBase:89 - Finding an element:  By.xpath: //a[contains(@href,'contact us')]
+2024-07-01 07:38:56 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 07:38:58 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 07:38:58 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 07:38:58 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 07:39:05 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 07:39:05 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 07:39:05 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:39:05 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:39:05 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:39:05 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:39:05 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:39:05 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:39:09 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 07:39:09 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 07:39:09 INFO  TestBase:100 - Clicking on element:  Contact us
+2024-07-01 07:45:02 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 07:45:06 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 07:45:06 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 07:45:06 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 07:45:07 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 07:45:07 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 07:45:07 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:45:07 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:45:07 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:45:07 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:45:07 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:45:07 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:45:10 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 07:45:10 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 07:45:10 INFO  TestBase:100 - Clicking on element:  Contact us
+2024-07-01 07:50:14 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 07:50:17 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 07:50:17 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 07:50:17 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 07:50:17 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 07:50:17 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 07:50:17 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:50:17 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:50:17 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:50:17 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:50:17 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:50:17 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:50:19 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 07:50:19 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 07:50:20 INFO  TestBase:100 - Clicking on element:  Contact us
+2024-07-01 07:58:19 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 07:58:23 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 07:58:23 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 07:58:23 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 07:58:23 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 07:58:23 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 07:58:23 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:58:23 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:58:23 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:58:23 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:58:23 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:58:23 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 07:58:26 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 07:58:26 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 07:58:27 INFO  TestBase:100 - Clicking on element:  Contact us
+2024-07-01 12:37:04 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 12:37:09 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 12:37:09 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 12:37:09 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 12:37:09 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 12:37:09 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 12:37:10 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:37:10 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:37:10 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:37:10 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:37:10 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:37:10 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:37:13 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 12:37:13 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 12:37:13 INFO  TestBase:100 - Clicking on element:  Contact us
+2024-07-01 12:41:47 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 12:41:49 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 12:41:49 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(8) a
+2024-07-01 12:41:49 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(8) a
+2024-07-01 12:41:49 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(8) a
+2024-07-01 12:41:49 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(8) a
+2024-07-01 12:41:49 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(8) a
+2024-07-01 12:41:49 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(8) a
+2024-07-01 12:41:49 INFO  TestBase:100 - Clicking on element:  Contact us
+2024-07-01 12:43:52 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 12:43:54 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 12:43:55 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='signup-name']
+2024-07-01 12:43:55 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='signup-name']
+2024-07-01 12:43:55 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='signup-email']
+2024-07-01 12:43:55 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='signup-email']
+2024-07-01 12:43:55 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='signup-button']
+2024-07-01 12:43:55 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='signup-button']
+2024-07-01 12:43:55 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='signup-button']
+2024-07-01 12:43:55 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='signup-button']
+2024-07-01 12:43:55 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='signup-button']
+2024-07-01 12:43:55 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='signup-button']
+2024-07-01 12:45:14 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 12:45:19 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 12:45:19 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='signup-name']
+2024-07-01 12:45:19 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='signup-name']
+2024-07-01 12:45:19 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='signup-email']
+2024-07-01 12:45:19 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='signup-email']
+2024-07-01 12:45:19 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='signup-button']
+2024-07-01 12:45:19 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='signup-button']
+2024-07-01 12:45:20 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='signup-button']
+2024-07-01 12:45:20 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='signup-button']
+2024-07-01 12:45:20 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='signup-button']
+2024-07-01 12:45:20 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='signup-button']
+2024-07-01 12:45:22 INFO  TestBase:89 - Finding an element:  By.id: id_gender1
+2024-07-01 12:45:22 INFO  TestBase:94 - Found the element:  By.id: id_gender1
+2024-07-01 12:45:22 INFO  TestBase:89 - Finding an element:  By.id: id_gender1
+2024-07-01 12:45:22 INFO  TestBase:94 - Found the element:  By.id: id_gender1
+2024-07-01 12:45:22 INFO  TestBase:89 - Finding an element:  By.id: id_gender1
+2024-07-01 12:45:22 INFO  TestBase:94 - Found the element:  By.id: id_gender1
+2024-07-01 12:45:22 INFO  TestBase:100 - Clicking on element:  
+2024-07-01 12:45:22 INFO  TestBase:107 - Clicked on element:  
+2024-07-01 12:45:22 INFO  TestBase:89 - Finding an element:  By.id: password
+2024-07-01 12:45:22 INFO  TestBase:94 - Found the element:  By.id: password
+2024-07-01 12:45:22 INFO  TestBase:89 - Finding an element:  By.id: days
+2024-07-01 12:45:22 INFO  TestBase:94 - Found the element:  By.id: days
+2024-07-01 12:45:22 INFO  TestBase:89 - Finding an element:  By.id: days
+2024-07-01 12:45:22 INFO  TestBase:94 - Found the element:  By.id: days
+2024-07-01 12:45:22 INFO  TestBase:89 - Finding an element:  By.id: days
+2024-07-01 12:45:22 INFO  TestBase:94 - Found the element:  By.id: days
+2024-07-01 12:45:22 INFO  TestBase:89 - Finding an element:  By.id: days
+2024-07-01 12:45:22 INFO  TestBase:94 - Found the element:  By.id: days
+2024-07-01 12:45:22 INFO  TestBase:89 - Finding an element:  By.xpath: .//option[@value = "5"]
+2024-07-01 12:45:22 INFO  TestBase:94 - Found the element:  By.xpath: .//option[@value = "5"]
+2024-07-01 12:45:23 INFO  TestBase:100 - Clicking on element:  5
+2024-07-01 12:45:23 INFO  TestBase:107 - Clicked on element:  5
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: months
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: months
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: months
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: months
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: months
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: months
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: months
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: months
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.xpath: .//option[@value = "6"]
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.xpath: .//option[@value = "6"]
+2024-07-01 12:45:23 INFO  TestBase:100 - Clicking on element:  June
+2024-07-01 12:45:23 INFO  TestBase:107 - Clicked on element:  June
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: years
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: years
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: years
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: years
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: years
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: years
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: years
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: years
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.xpath: .//option[@value = "2002"]
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.xpath: .//option[@value = "2002"]
+2024-07-01 12:45:23 INFO  TestBase:100 - Clicking on element:  2002
+2024-07-01 12:45:23 INFO  TestBase:107 - Clicked on element:  2002
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: newsletter
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: newsletter
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: newsletter
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: newsletter
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: newsletter
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: newsletter
+2024-07-01 12:45:23 INFO  TestBase:100 - Clicking on element:  
+2024-07-01 12:45:23 INFO  TestBase:107 - Clicked on element:  
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: optin
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: optin
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: optin
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: optin
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: optin
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: optin
+2024-07-01 12:45:23 INFO  TestBase:100 - Clicking on element:  
+2024-07-01 12:45:23 INFO  TestBase:107 - Clicked on element:  
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: first_name
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: first_name
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: last_name
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: last_name
+2024-07-01 12:45:23 INFO  TestBase:89 - Finding an element:  By.id: company
+2024-07-01 12:45:23 INFO  TestBase:94 - Found the element:  By.id: company
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.id: address1
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.id: address1
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.id: address2
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.id: address2
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.id: country
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.id: country
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.id: country
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.id: country
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.id: country
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.id: country
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.id: country
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.id: country
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.xpath: .//option[@value = "Canada"]
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.xpath: .//option[@value = "Canada"]
+2024-07-01 12:45:24 INFO  TestBase:100 - Clicking on element:  Canada
+2024-07-01 12:45:24 INFO  TestBase:107 - Clicked on element:  Canada
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.id: state
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.id: state
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.id: city
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.id: city
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.id: zipcode
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.id: zipcode
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.id: mobile_number
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.id: mobile_number
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.xpath: //button[text()='Create Account']
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.xpath: //button[text()='Create Account']
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.xpath: //button[text()='Create Account']
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.xpath: //button[text()='Create Account']
+2024-07-01 12:45:24 INFO  TestBase:89 - Finding an element:  By.xpath: //button[text()='Create Account']
+2024-07-01 12:45:24 INFO  TestBase:94 - Found the element:  By.xpath: //button[text()='Create Account']
+2024-07-01 12:45:25 INFO  TestBase:89 - Finding an element:  By.cssSelector: h2.text-center
+2024-07-01 12:45:25 INFO  TestBase:94 - Found the element:  By.cssSelector: h2.text-center
+2024-07-01 12:45:25 INFO  TestBase:89 - Finding an element:  By.cssSelector: h2.text-center
+2024-07-01 12:45:26 INFO  TestBase:94 - Found the element:  By.cssSelector: h2.text-center
+2024-07-01 12:45:26 INFO  TestBase:166 - Getting text from element  ACCOUNT CREATED!
+2024-07-01 12:45:26 INFO  TestBase:172 - Text from element  ACCOUNT CREATED!
+2024-07-01 12:47:00 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 12:47:02 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 12:47:02 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 12:47:02 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 12:47:03 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 12:47:03 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 12:47:03 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:47:04 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:47:05 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:47:05 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:47:06 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:47:06 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:47:06 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 12:47:10 INFO  TestBase:89 - Finding an element:  By.cssSelector: div.features_items div.single-products
+2024-07-01 12:47:10 INFO  TestBase:94 - Found the element:  By.cssSelector: div.features_items div.single-products
+2024-07-01 12:47:10 INFO  TestBase:89 - Finding an element:  By.cssSelector: p
+2024-07-01 12:47:10 INFO  TestBase:94 - Found the element:  By.cssSelector: p
+2024-07-01 12:47:10 INFO  TestBase:166 - Getting text from element  Blue Top
+2024-07-01 12:47:10 INFO  TestBase:172 - Text from element  Blue Top
+2024-07-01 12:47:10 INFO  TestBase:89 - Finding an element:  By.cssSelector: p
+2024-07-01 12:47:10 INFO  TestBase:94 - Found the element:  By.cssSelector: p
+2024-07-01 12:47:20 INFO  TestBase:166 - Getting text from element  Men Tshirt
+2024-07-01 12:47:20 INFO  TestBase:172 - Text from element  Men Tshirt
+2024-07-01 12:47:20 INFO  TestBase:89 - Finding an element:  By.cssSelector: a.add-to-cart
+2024-07-01 12:47:20 INFO  TestBase:94 - Found the element:  By.cssSelector: a.add-to-cart
+2024-07-01 12:47:20 INFO  TestBase:100 - Clicking on element:  Add to cart
+2024-07-01 12:47:21 INFO  TestBase:107 - Clicked on element:  Add to cart
+2024-07-01 12:47:21 INFO  TestBase:89 - Finding an element:  By.id: cartModal
+2024-07-01 12:47:21 INFO  TestBase:94 - Found the element:  By.id: cartModal
+2024-07-01 12:47:21 INFO  TestBase:89 - Finding an element:  By.id: cartModal
+2024-07-01 12:47:21 INFO  TestBase:94 - Found the element:  By.id: cartModal
+2024-07-01 12:47:22 INFO  TestBase:89 - Finding an element:  By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 12:47:22 INFO  TestBase:94 - Found the element:  By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 12:47:22 INFO  TestBase:89 - Finding an element:  By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 12:47:22 INFO  TestBase:94 - Found the element:  By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 12:47:22 INFO  TestBase:89 - Finding an element:  By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 12:47:22 INFO  TestBase:94 - Found the element:  By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 12:47:22 INFO  TestBase:100 - Clicking on element:  Continue Shopping
+2024-07-01 12:47:22 INFO  TestBase:107 - Clicked on element:  
+2024-07-01 12:47:22 INFO  TestBase:89 - Finding an element:  By.id: cartModal
+2024-07-01 12:47:23 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 12:47:23 INFO  TestBase:94 - Found the element:  By.id: cartModal
+2024-07-01 12:47:23 INFO  TestBase:89 - Finding an element:  By.cssSelector: div.features_items div.single-products
+2024-07-01 12:47:23 INFO  TestBase:94 - Found the element:  By.cssSelector: div.features_items div.single-products
+2024-07-01 12:47:23 INFO  TestBase:89 - Finding an element:  By.cssSelector: p
+2024-07-01 12:47:23 INFO  TestBase:94 - Found the element:  By.cssSelector: p
+2024-07-01 12:47:23 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 12:47:23 INFO  TestBase:166 - Getting text from element  Blue Top
+2024-07-01 12:47:23 INFO  TestBase:172 - Text from element  Blue Top
+2024-07-01 12:47:23 INFO  TestBase:89 - Finding an element:  By.cssSelector: a.add-to-cart
+2024-07-01 12:47:23 INFO  TestBase:94 - Found the element:  By.cssSelector: a.add-to-cart
+2024-07-01 12:47:24 INFO  TestBase:100 - Clicking on element:  Add to cart
+2024-07-01 12:47:24 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 12:47:24 INFO  TestBase:107 - Clicked on element:  Add to cart
+2024-07-01 12:47:24 INFO  TestBase:89 - Finding an element:  By.cssSelector: h4.w-100
+2024-07-01 12:47:24 INFO  TestBase:94 - Found the element:  By.cssSelector: h4.w-100
+2024-07-01 12:47:24 INFO  TestBase:89 - Finding an element:  By.cssSelector: h4.w-100
+2024-07-01 12:47:24 INFO  TestBase:94 - Found the element:  By.cssSelector: h4.w-100
+2024-07-01 12:47:24 INFO  TestBase:166 - Getting text from element  Added!
+2024-07-01 12:47:24 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 12:47:24 INFO  TestBase:172 - Text from element  Added!
+2024-07-01 12:47:24 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 12:47:24 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:47:24 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:47:25 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:47:25 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:47:25 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:47:25 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:47:27 INFO  TestBase:89 - Finding an element:  By.cssSelector: div.features_items div.single-products
+2024-07-01 12:47:27 INFO  TestBase:94 - Found the element:  By.cssSelector: div.features_items div.single-products
+2024-07-01 12:47:27 INFO  TestBase:89 - Finding an element:  By.cssSelector: p
+2024-07-01 12:47:27 INFO  TestBase:94 - Found the element:  By.cssSelector: p
+2024-07-01 12:47:27 INFO  TestBase:166 - Getting text from element  Blue Top
+2024-07-01 12:47:27 INFO  TestBase:172 - Text from element  Blue Top
+2024-07-01 12:47:27 INFO  TestBase:89 - Finding an element:  By.cssSelector: p
+2024-07-01 12:47:27 INFO  TestBase:94 - Found the element:  By.cssSelector: p
+2024-07-01 12:47:27 INFO  TestBase:166 - Getting text from element  Men Tshirt
+2024-07-01 12:47:28 INFO  TestBase:172 - Text from element  Men Tshirt
+2024-07-01 12:47:28 INFO  TestBase:89 - Finding an element:  By.cssSelector: a.add-to-cart
+2024-07-01 12:47:28 INFO  TestBase:94 - Found the element:  By.cssSelector: a.add-to-cart
+2024-07-01 12:47:28 INFO  TestBase:100 - Clicking on element:  Add to cart
+2024-07-01 12:47:28 INFO  TestBase:107 - Clicked on element:  Add to cart
+2024-07-01 12:47:28 INFO  TestBase:89 - Finding an element:  By.id: cartModal
+2024-07-01 12:47:28 INFO  TestBase:94 - Found the element:  By.id: cartModal
+2024-07-01 12:47:28 INFO  TestBase:89 - Finding an element:  By.id: cartModal
+2024-07-01 12:47:28 INFO  TestBase:94 - Found the element:  By.id: cartModal
+2024-07-01 12:47:28 INFO  TestBase:89 - Finding an element:  By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 12:47:28 INFO  TestBase:94 - Found the element:  By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 12:47:28 INFO  TestBase:89 - Finding an element:  By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 12:47:28 INFO  TestBase:94 - Found the element:  By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 12:47:28 INFO  TestBase:89 - Finding an element:  By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 12:47:28 INFO  TestBase:94 - Found the element:  By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 12:47:28 INFO  TestBase:100 - Clicking on element:  Continue Shopping
+2024-07-01 12:47:28 INFO  TestBase:107 - Clicked on element:  
+2024-07-01 12:47:28 INFO  TestBase:89 - Finding an element:  By.id: cartModal
+2024-07-01 12:47:28 INFO  TestBase:94 - Found the element:  By.id: cartModal
+2024-07-01 12:47:28 INFO  TestBase:89 - Finding an element:  By.cssSelector: div.features_items div.single-products
+2024-07-01 12:47:28 INFO  TestBase:94 - Found the element:  By.cssSelector: div.features_items div.single-products
+2024-07-01 12:47:28 INFO  TestBase:89 - Finding an element:  By.cssSelector: p
+2024-07-01 12:47:28 INFO  TestBase:94 - Found the element:  By.cssSelector: p
+2024-07-01 12:47:28 INFO  TestBase:166 - Getting text from element  Blue Top
+2024-07-01 12:47:29 INFO  TestBase:172 - Text from element  Blue Top
+2024-07-01 12:47:29 INFO  TestBase:89 - Finding an element:  By.cssSelector: a.add-to-cart
+2024-07-01 12:47:29 INFO  TestBase:94 - Found the element:  By.cssSelector: a.add-to-cart
+2024-07-01 12:47:29 INFO  TestBase:100 - Clicking on element:  Add to cart
+2024-07-01 12:47:29 INFO  TestBase:107 - Clicked on element:  Add to cart
+2024-07-01 12:47:29 INFO  TestBase:89 - Finding an element:  By.cssSelector: h4.w-100
+2024-07-01 12:47:29 INFO  TestBase:94 - Found the element:  By.cssSelector: h4.w-100
+2024-07-01 12:47:29 INFO  TestBase:89 - Finding an element:  By.cssSelector: h4.w-100
+2024-07-01 12:47:29 INFO  TestBase:94 - Found the element:  By.cssSelector: h4.w-100
+2024-07-01 12:47:29 INFO  TestBase:89 - Finding an element:  By.cssSelector: h4.w-100
+2024-07-01 12:47:29 INFO  TestBase:94 - Found the element:  By.cssSelector: h4.w-100
+2024-07-01 12:47:29 INFO  TestBase:166 - Getting text from element  Added!
+2024-07-01 12:47:29 INFO  TestBase:172 - Text from element  Added!
+2024-07-01 12:49:01 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 12:49:03 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 12:49:03 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 12:49:03 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 12:49:03 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 12:49:03 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 12:49:03 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:49:04 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:49:04 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:49:04 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:49:04 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:49:04 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:49:34 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 12:49:36 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 12:49:36 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 12:49:36 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 12:49:36 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 12:49:36 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 12:49:36 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:49:36 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:49:36 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:49:36 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:49:36 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:49:37 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:49:40 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 12:49:40 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 12:49:40 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 12:49:40 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 12:49:40 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 12:49:40 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 12:49:40 INFO  TestBase:100 - Clicking on element:  Cart
+2024-07-01 12:50:16 INFO  TestBase:40 - Navigating to URL : https://www.automationexercise.com/login
+2024-07-01 12:50:18 INFO  TestBase:46 - Navigated to URL : https://www.automationexercise.com/login
+2024-07-01 12:50:18 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 12:50:18 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-email']
+2024-07-01 12:50:20 INFO  TestBase:89 - Finding an element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 12:50:20 INFO  TestBase:94 - Found the element:  By.cssSelector: input[data-qa='login-password']
+2024-07-01 12:50:20 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:50:20 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:50:20 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:50:20 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:50:20 INFO  TestBase:89 - Finding an element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:50:20 INFO  TestBase:94 - Found the element:  By.cssSelector: button[data-qa='login-button']
+2024-07-01 12:50:23 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 12:50:23 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 12:50:23 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 12:50:23 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 12:50:23 INFO  TestBase:89 - Finding an element:  By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 12:50:23 INFO  TestBase:94 - Found the element:  By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 12:50:23 INFO  TestBase:100 - Clicking on element:  Cart
+2024-07-01 13:52:11 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 13:52:13 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 13:52:13 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 13:52:14 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 13:52:14 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 13:52:14 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 13:52:14 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 13:52:15 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 13:52:15 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 13:52:15 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 13:52:15 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 13:52:18 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 13:52:18 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 13:52:18 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 13:52:18 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 13:52:18 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 13:52:18 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 13:52:18 INFO  TestBase:41 - Clicking on element [[ChromeDriver: chrome on windows (1b929c80775bd0942ea1246923784f8b)] -> css selector: ul.navbar-nav li:nth-of-type(9) a]
+2024-07-01 13:52:20 INFO  TestBase:45 - Clicked on element [[ChromeDriver: chrome on windows (1b929c80775bd0942ea1246923784f8b)] -> css selector: ul.navbar-nav li:nth-of-type(9) a]
+2024-07-01 13:52:20 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='name']
+2024-07-01 13:52:20 INFO  TestBase:27 - Found the element By.xpath: //input[@name='name']
+2024-07-01 13:52:21 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='email']
+2024-07-01 13:52:21 INFO  TestBase:27 - Found the element By.xpath: //input[@name='email']
+2024-07-01 13:52:21 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='subject']
+2024-07-01 13:52:21 INFO  TestBase:27 - Found the element By.xpath: //input[@name='subject']
+2024-07-01 13:52:21 INFO  TestBase:23 - Finding the element By.id: message
+2024-07-01 13:52:21 INFO  TestBase:27 - Found the element By.id: message
+2024-07-01 13:52:21 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='submit']
+2024-07-01 13:52:21 INFO  TestBase:27 - Found the element By.xpath: //input[@name='submit']
+2024-07-01 13:52:21 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='submit']
+2024-07-01 13:52:21 INFO  TestBase:27 - Found the element By.xpath: //input[@name='submit']
+2024-07-01 13:52:21 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='submit']
+2024-07-01 13:52:21 INFO  TestBase:27 - Found the element By.xpath: //input[@name='submit']
+2024-07-01 13:52:21 INFO  TestBase:23 - Finding the element By.cssSelector: div.contact-form div.alert-success
+2024-07-01 13:52:21 INFO  TestBase:27 - Found the element By.cssSelector: div.contact-form div.alert-success
+2024-07-01 13:52:21 INFO  TestBase:23 - Finding the element By.cssSelector: div.contact-form div.alert-success
+2024-07-01 13:52:21 INFO  TestBase:27 - Found the element By.cssSelector: div.contact-form div.alert-success
+2024-07-01 14:20:28 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 14:20:31 INFO  TestBase:13 - Test Started : validateInvalidLoginFunctionality
+2024-07-01 14:20:31 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:20:31 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:20:31 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:20:31 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:20:31 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:20:31 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:20:32 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:20:32 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:20:32 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:20:32 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:20:34 INFO  TestBase:23 - Finding the element By.cssSelector: div.login-form p
+2024-07-01 14:20:34 INFO  TestBase:27 - Found the element By.cssSelector: div.login-form p
+2024-07-01 14:20:34 INFO  TestBase:23 - Finding the element By.cssSelector: div.login-form p
+2024-07-01 14:20:34 INFO  TestBase:27 - Found the element By.cssSelector: div.login-form p
+2024-07-01 14:20:35 INFO  TestBase:18 - Test Passed : validateInvalidLoginFunctionality
+2024-07-01 14:20:36 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 14:20:39 INFO  TestBase:13 - Test Started : validateLogoutFunctionality
+2024-07-01 14:20:39 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:20:39 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:20:39 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:20:39 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:20:39 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:20:39 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:20:39 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:20:39 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:20:39 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:20:39 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:20:44 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(4)
+2024-07-01 14:20:44 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(4)
+2024-07-01 14:20:44 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(4)
+2024-07-01 14:20:44 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(4)
+2024-07-01 14:20:44 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(4)
+2024-07-01 14:20:44 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(4)
+2024-07-01 14:20:44 INFO  TestBase:41 - Clicking on element [[ChromeDriver: chrome on windows (4381d53f07418b1e02ce72fd41a324ce)] -> css selector: ul.navbar-nav li:nth-of-type(4)]
+2024-07-01 14:20:47 INFO  TestBase:45 - Clicked on element [[ChromeDriver: chrome on windows (4381d53f07418b1e02ce72fd41a324ce)] -> css selector: ul.navbar-nav li:nth-of-type(4)]
+2024-07-01 14:20:47 INFO  TestBase:23 - Finding the element By.cssSelector: div.login-form h2
+2024-07-01 14:20:47 INFO  TestBase:27 - Found the element By.cssSelector: div.login-form h2
+2024-07-01 14:20:47 INFO  TestBase:23 - Finding the element By.cssSelector: div.login-form h2
+2024-07-01 14:20:47 INFO  TestBase:27 - Found the element By.cssSelector: div.login-form h2
+2024-07-01 14:20:47 INFO  TestBase:18 - Test Passed : validateLogoutFunctionality
+2024-07-01 14:20:50 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 14:20:51 INFO  TestBase:13 - Test Started : validateSignupWithExisitngEmailFunctionality
+2024-07-01 14:20:51 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='signup-name']
+2024-07-01 14:20:52 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='signup-name']
+2024-07-01 14:20:52 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='signup-email']
+2024-07-01 14:20:52 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='signup-email']
+2024-07-01 14:20:52 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='signup-button']
+2024-07-01 14:20:52 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='signup-button']
+2024-07-01 14:20:52 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='signup-button']
+2024-07-01 14:20:52 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='signup-button']
+2024-07-01 14:20:52 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='signup-button']
+2024-07-01 14:20:52 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='signup-button']
+2024-07-01 14:20:55 INFO  TestBase:23 - Finding the element By.cssSelector: div.signup-form p
+2024-07-01 14:20:55 INFO  TestBase:27 - Found the element By.cssSelector: div.signup-form p
+2024-07-01 14:20:55 INFO  TestBase:23 - Finding the element By.cssSelector: div.signup-form p
+2024-07-01 14:20:55 INFO  TestBase:27 - Found the element By.cssSelector: div.signup-form p
+2024-07-01 14:20:55 INFO  TestBase:18 - Test Passed : validateSignupWithExisitngEmailFunctionality
+2024-07-01 14:20:56 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 14:21:01 INFO  TestBase:13 - Test Started : validateSubscriptionFunctionality
+2024-07-01 14:21:01 INFO  TestBase:23 - Finding the element By.id: susbscribe_email
+2024-07-01 14:21:01 INFO  TestBase:27 - Found the element By.id: susbscribe_email
+2024-07-01 14:21:01 INFO  TestBase:23 - Finding the element By.id: subscribe
+2024-07-01 14:21:01 INFO  TestBase:27 - Found the element By.id: subscribe
+2024-07-01 14:21:01 INFO  TestBase:23 - Finding the element By.cssSelector: div.alert-success
+2024-07-01 14:21:01 INFO  TestBase:27 - Found the element By.cssSelector: div.alert-success
+2024-07-01 14:21:01 INFO  TestBase:18 - Test Passed : validateSubscriptionFunctionality
+2024-07-01 14:21:02 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 14:21:13 INFO  TestBase:13 - Test Started : validateAccountCreationFunctionality
+2024-07-01 14:21:13 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='signup-name']
+2024-07-01 14:21:13 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='signup-name']
+2024-07-01 14:21:13 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='signup-email']
+2024-07-01 14:21:13 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='signup-email']
+2024-07-01 14:21:13 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='signup-button']
+2024-07-01 14:21:13 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='signup-button']
+2024-07-01 14:21:13 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='signup-button']
+2024-07-01 14:21:13 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='signup-button']
+2024-07-01 14:21:13 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='signup-button']
+2024-07-01 14:21:13 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='signup-button']
+2024-07-01 14:21:14 INFO  TestBase:23 - Finding the element By.id: id_gender1
+2024-07-01 14:21:14 INFO  TestBase:27 - Found the element By.id: id_gender1
+2024-07-01 14:21:15 INFO  TestBase:23 - Finding the element By.id: id_gender1
+2024-07-01 14:21:15 INFO  TestBase:27 - Found the element By.id: id_gender1
+2024-07-01 14:21:15 INFO  TestBase:23 - Finding the element By.id: id_gender1
+2024-07-01 14:21:15 INFO  TestBase:27 - Found the element By.id: id_gender1
+2024-07-01 14:21:15 INFO  TestBase:41 - Clicking on element [[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: id_gender1]
+2024-07-01 14:21:15 INFO  TestBase:45 - Clicked on element [[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: id_gender1]
+2024-07-01 14:21:15 INFO  TestBase:23 - Finding the element By.id: password
+2024-07-01 14:21:15 INFO  TestBase:27 - Found the element By.id: password
+2024-07-01 14:21:15 INFO  TestBase:23 - Finding the element By.id: days
+2024-07-01 14:21:15 INFO  TestBase:27 - Found the element By.id: days
+2024-07-01 14:21:15 INFO  TestBase:23 - Finding the element By.id: days
+2024-07-01 14:21:15 INFO  TestBase:27 - Found the element By.id: days
+2024-07-01 14:21:15 INFO  TestBase:23 - Finding the element By.id: days
+2024-07-01 14:21:15 INFO  TestBase:27 - Found the element By.id: days
+2024-07-01 14:21:15 INFO  TestBase:23 - Finding the element By.id: days
+2024-07-01 14:21:15 INFO  TestBase:27 - Found the element By.id: days
+2024-07-01 14:21:15 INFO  TestBase:41 - Clicking on element [[[[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: days]] -> xpath: .//option[@value = "5"]]
+2024-07-01 14:21:15 INFO  TestBase:45 - Clicked on element [[[[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: days]] -> xpath: .//option[@value = "5"]]
+2024-07-01 14:21:15 INFO  TestBase:23 - Finding the element By.id: months
+2024-07-01 14:21:15 INFO  TestBase:27 - Found the element By.id: months
+2024-07-01 14:21:15 INFO  TestBase:23 - Finding the element By.id: months
+2024-07-01 14:21:15 INFO  TestBase:27 - Found the element By.id: months
+2024-07-01 14:21:15 INFO  TestBase:23 - Finding the element By.id: months
+2024-07-01 14:21:15 INFO  TestBase:27 - Found the element By.id: months
+2024-07-01 14:21:15 INFO  TestBase:23 - Finding the element By.id: months
+2024-07-01 14:21:15 INFO  TestBase:27 - Found the element By.id: months
+2024-07-01 14:21:15 INFO  TestBase:41 - Clicking on element [[[[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: months]] -> xpath: .//option[@value = "6"]]
+2024-07-01 14:21:15 INFO  TestBase:45 - Clicked on element [[[[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: months]] -> xpath: .//option[@value = "6"]]
+2024-07-01 14:21:15 INFO  TestBase:23 - Finding the element By.id: years
+2024-07-01 14:21:15 INFO  TestBase:27 - Found the element By.id: years
+2024-07-01 14:21:15 INFO  TestBase:23 - Finding the element By.id: years
+2024-07-01 14:21:15 INFO  TestBase:27 - Found the element By.id: years
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: years
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: years
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: years
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: years
+2024-07-01 14:21:16 INFO  TestBase:41 - Clicking on element [[[[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: years]] -> xpath: .//option[@value = "2002"]]
+2024-07-01 14:21:16 INFO  TestBase:45 - Clicked on element [[[[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: years]] -> xpath: .//option[@value = "2002"]]
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: newsletter
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: newsletter
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: newsletter
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: newsletter
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: newsletter
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: newsletter
+2024-07-01 14:21:16 INFO  TestBase:41 - Clicking on element [[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: newsletter]
+2024-07-01 14:21:16 INFO  TestBase:45 - Clicked on element [[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: newsletter]
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: optin
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: optin
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: optin
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: optin
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: optin
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: optin
+2024-07-01 14:21:16 INFO  TestBase:41 - Clicking on element [[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: optin]
+2024-07-01 14:21:16 INFO  TestBase:45 - Clicked on element [[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: optin]
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: first_name
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: first_name
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: last_name
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: last_name
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: company
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: company
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: address1
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: address1
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: address2
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: address2
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: country
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: country
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: country
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: country
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: country
+2024-07-01 14:21:16 INFO  TestBase:27 - Found the element By.id: country
+2024-07-01 14:21:16 INFO  TestBase:23 - Finding the element By.id: country
+2024-07-01 14:21:17 INFO  TestBase:27 - Found the element By.id: country
+2024-07-01 14:21:17 INFO  TestBase:41 - Clicking on element [[[[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: country]] -> xpath: .//option[@value = "Canada"]]
+2024-07-01 14:21:17 INFO  TestBase:45 - Clicked on element [[[[ChromeDriver: chrome on windows (c1e927e7992e912301a037c568038937)] -> id: country]] -> xpath: .//option[@value = "Canada"]]
+2024-07-01 14:21:17 INFO  TestBase:23 - Finding the element By.id: state
+2024-07-01 14:21:17 INFO  TestBase:27 - Found the element By.id: state
+2024-07-01 14:21:17 INFO  TestBase:23 - Finding the element By.id: city
+2024-07-01 14:21:17 INFO  TestBase:27 - Found the element By.id: city
+2024-07-01 14:21:17 INFO  TestBase:23 - Finding the element By.id: zipcode
+2024-07-01 14:21:17 INFO  TestBase:27 - Found the element By.id: zipcode
+2024-07-01 14:21:17 INFO  TestBase:23 - Finding the element By.id: mobile_number
+2024-07-01 14:21:17 INFO  TestBase:27 - Found the element By.id: mobile_number
+2024-07-01 14:21:17 INFO  TestBase:23 - Finding the element By.xpath: //button[text()='Create Account']
+2024-07-01 14:21:17 INFO  TestBase:27 - Found the element By.xpath: //button[text()='Create Account']
+2024-07-01 14:21:17 INFO  TestBase:23 - Finding the element By.xpath: //button[text()='Create Account']
+2024-07-01 14:21:17 INFO  TestBase:27 - Found the element By.xpath: //button[text()='Create Account']
+2024-07-01 14:21:17 INFO  TestBase:23 - Finding the element By.xpath: //button[text()='Create Account']
+2024-07-01 14:21:17 INFO  TestBase:27 - Found the element By.xpath: //button[text()='Create Account']
+2024-07-01 14:21:20 INFO  TestBase:23 - Finding the element By.cssSelector: h2.text-center
+2024-07-01 14:21:20 INFO  TestBase:27 - Found the element By.cssSelector: h2.text-center
+2024-07-01 14:21:20 INFO  TestBase:23 - Finding the element By.cssSelector: h2.text-center
+2024-07-01 14:21:20 INFO  TestBase:27 - Found the element By.cssSelector: h2.text-center
+2024-07-01 14:21:20 INFO  TestBase:18 - Test Passed : validateAccountCreationFunctionality
+2024-07-01 14:21:23 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 14:21:27 INFO  TestBase:13 - Test Started : validateValidLoginFunctionality
+2024-07-01 14:21:27 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:21:27 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:21:27 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:21:27 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:21:27 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:27 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:27 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:27 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:27 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:27 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:30 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:21:30 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:21:30 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:21:30 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:21:30 INFO  TestBase:18 - Test Passed : validateValidLoginFunctionality
+2024-07-01 14:21:31 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 14:21:35 INFO  TestBase:13 - Test Started : validateValidLoginFunctionality
+2024-07-01 14:21:35 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:21:35 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:21:35 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:21:35 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:21:35 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:35 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:35 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:35 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:35 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:35 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:38 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:21:38 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:21:38 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:21:38 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:21:38 INFO  TestBase:18 - Test Passed : validateValidLoginFunctionality
+2024-07-01 14:21:39 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 14:21:43 INFO  TestBase:13 - Test Started : validateValidLoginFunctionality
+2024-07-01 14:21:43 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:21:43 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:21:44 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:21:44 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:21:44 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:44 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:44 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:44 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:44 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:44 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:46 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:21:46 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:21:46 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:21:46 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:21:46 INFO  TestBase:18 - Test Passed : validateValidLoginFunctionality
+2024-07-01 14:21:47 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 14:21:51 INFO  TestBase:13 - Test Started : validateAddToCartFunctionality
+2024-07-01 14:21:51 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:21:51 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:21:51 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:21:52 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:21:52 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:52 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:52 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:52 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:52 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:52 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:21:54 INFO  TestBase:32 - Finding the element By.cssSelector: div.features_items div.single-products
+2024-07-01 14:21:54 INFO  TestBase:36 - Found the element By.cssSelector: div.features_items div.single-products
+2024-07-01 14:21:54 INFO  TestBase:41 - Clicking on element [[[[ChromeDriver: chrome on windows (030d48158420f02b729106e214fc7554)] -> css selector: div.features_items div.single-products]] -> css selector: a.add-to-cart]
+2024-07-01 14:21:54 INFO  TestBase:45 - Clicked on element [[[[ChromeDriver: chrome on windows (030d48158420f02b729106e214fc7554)] -> css selector: div.features_items div.single-products]] -> css selector: a.add-to-cart]
+2024-07-01 14:21:54 INFO  TestBase:23 - Finding the element By.id: cartModal
+2024-07-01 14:21:54 INFO  TestBase:27 - Found the element By.id: cartModal
+2024-07-01 14:21:55 INFO  TestBase:23 - Finding the element By.id: cartModal
+2024-07-01 14:21:55 INFO  TestBase:27 - Found the element By.id: cartModal
+2024-07-01 14:21:55 INFO  TestBase:23 - Finding the element By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 14:21:55 INFO  TestBase:27 - Found the element By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 14:21:55 INFO  TestBase:23 - Finding the element By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 14:21:55 INFO  TestBase:27 - Found the element By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 14:21:55 INFO  TestBase:23 - Finding the element By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 14:21:55 INFO  TestBase:27 - Found the element By.cssSelector: div.modal-content div.modal-footer
+2024-07-01 14:21:55 INFO  TestBase:41 - Clicking on element [[ChromeDriver: chrome on windows (030d48158420f02b729106e214fc7554)] -> css selector: div.modal-content div.modal-footer]
+2024-07-01 14:21:55 INFO  TestBase:45 - Clicked on element [[ChromeDriver: chrome on windows (030d48158420f02b729106e214fc7554)] -> css selector: div.modal-content div.modal-footer]
+2024-07-01 14:21:55 INFO  TestBase:23 - Finding the element By.id: cartModal
+2024-07-01 14:21:55 INFO  TestBase:27 - Found the element By.id: cartModal
+2024-07-01 14:21:55 INFO  TestBase:32 - Finding the element By.cssSelector: div.features_items div.single-products
+2024-07-01 14:21:55 INFO  TestBase:36 - Found the element By.cssSelector: div.features_items div.single-products
+2024-07-01 14:21:55 INFO  TestBase:41 - Clicking on element [[[[ChromeDriver: chrome on windows (030d48158420f02b729106e214fc7554)] -> css selector: div.features_items div.single-products]] -> css selector: a.add-to-cart]
+2024-07-01 14:21:55 INFO  TestBase:45 - Clicked on element [[[[ChromeDriver: chrome on windows (030d48158420f02b729106e214fc7554)] -> css selector: div.features_items div.single-products]] -> css selector: a.add-to-cart]
+2024-07-01 14:21:55 INFO  TestBase:23 - Finding the element By.cssSelector: h4.w-100
+2024-07-01 14:21:55 INFO  TestBase:27 - Found the element By.cssSelector: h4.w-100
+2024-07-01 14:21:56 INFO  TestBase:23 - Finding the element By.cssSelector: h4.w-100
+2024-07-01 14:21:56 INFO  TestBase:27 - Found the element By.cssSelector: h4.w-100
+2024-07-01 14:21:56 INFO  TestBase:23 - Finding the element By.cssSelector: h4.w-100
+2024-07-01 14:21:56 INFO  TestBase:27 - Found the element By.cssSelector: h4.w-100
+2024-07-01 14:21:56 INFO  TestBase:18 - Test Passed : validateAddToCartFunctionality
+2024-07-01 14:21:57 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 14:22:01 INFO  TestBase:13 - Test Started : validatePlaceOrderFunctionality
+2024-07-01 14:22:01 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:22:01 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:22:01 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:22:01 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:22:01 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:01 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:01 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:01 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:01 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:01 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:04 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 14:22:04 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 14:22:04 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 14:22:04 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 14:22:04 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 14:22:04 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 14:22:04 INFO  TestBase:41 - Clicking on element [[ChromeDriver: chrome on windows (42ca60f26c53bf6268d09645be86b140)] -> css selector: ul.navbar-nav li:nth-of-type(3)]
+2024-07-01 14:22:06 INFO  TestBase:45 - Clicked on element [[ChromeDriver: chrome on windows (42ca60f26c53bf6268d09645be86b140)] -> css selector: ul.navbar-nav li:nth-of-type(3)]
+2024-07-01 14:22:06 INFO  TestBase:23 - Finding the element By.cssSelector: a.check_out
+2024-07-01 14:22:06 INFO  TestBase:27 - Found the element By.cssSelector: a.check_out
+2024-07-01 14:22:06 INFO  TestBase:23 - Finding the element By.cssSelector: a.check_out
+2024-07-01 14:22:06 INFO  TestBase:27 - Found the element By.cssSelector: a.check_out
+2024-07-01 14:22:06 INFO  TestBase:23 - Finding the element By.cssSelector: a.check_out
+2024-07-01 14:22:06 INFO  TestBase:27 - Found the element By.cssSelector: a.check_out
+2024-07-01 14:22:06 INFO  TestBase:41 - Clicking on element [[ChromeDriver: chrome on windows (42ca60f26c53bf6268d09645be86b140)] -> css selector: a.check_out]
+2024-07-01 14:22:09 INFO  TestBase:45 - Clicked on element [[ChromeDriver: chrome on windows (42ca60f26c53bf6268d09645be86b140)] -> css selector: a.check_out]
+2024-07-01 14:22:09 INFO  TestBase:23 - Finding the element By.cssSelector: textarea.form-control
+2024-07-01 14:22:09 INFO  TestBase:27 - Found the element By.cssSelector: textarea.form-control
+2024-07-01 14:22:09 INFO  TestBase:23 - Finding the element By.cssSelector: textarea.form-control
+2024-07-01 14:22:09 INFO  TestBase:27 - Found the element By.cssSelector: textarea.form-control
+2024-07-01 14:22:09 INFO  TestBase:23 - Finding the element By.cssSelector: a.check_out
+2024-07-01 14:22:09 INFO  TestBase:27 - Found the element By.cssSelector: a.check_out
+2024-07-01 14:22:09 INFO  TestBase:23 - Finding the element By.cssSelector: a.check_out
+2024-07-01 14:22:09 INFO  TestBase:27 - Found the element By.cssSelector: a.check_out
+2024-07-01 14:22:09 INFO  TestBase:23 - Finding the element By.cssSelector: a.check_out
+2024-07-01 14:22:09 INFO  TestBase:27 - Found the element By.cssSelector: a.check_out
+2024-07-01 14:22:09 INFO  TestBase:41 - Clicking on element [[ChromeDriver: chrome on windows (42ca60f26c53bf6268d09645be86b140)] -> css selector: a.check_out]
+2024-07-01 14:22:09 INFO  TestBase:45 - Clicked on element [[ChromeDriver: chrome on windows (42ca60f26c53bf6268d09645be86b140)] -> css selector: a.check_out]
+2024-07-01 14:22:09 INFO  TestBase:23 - Finding the element By.cssSelector: input[name='name_on_card']
+2024-07-01 14:22:16 INFO  TestBase:27 - Found the element By.cssSelector: input[name='name_on_card']
+2024-07-01 14:22:16 INFO  TestBase:23 - Finding the element By.cssSelector: input[name='card_number']
+2024-07-01 14:22:16 INFO  TestBase:27 - Found the element By.cssSelector: input[name='card_number']
+2024-07-01 14:22:16 INFO  TestBase:23 - Finding the element By.cssSelector: input[name='cvc']
+2024-07-01 14:22:16 INFO  TestBase:27 - Found the element By.cssSelector: input[name='cvc']
+2024-07-01 14:22:16 INFO  TestBase:23 - Finding the element By.cssSelector: input[name='expiry_month']
+2024-07-01 14:22:16 INFO  TestBase:27 - Found the element By.cssSelector: input[name='expiry_month']
+2024-07-01 14:22:17 INFO  TestBase:23 - Finding the element By.cssSelector: input[name='expiry_year']
+2024-07-01 14:22:17 INFO  TestBase:27 - Found the element By.cssSelector: input[name='expiry_year']
+2024-07-01 14:22:17 INFO  TestBase:23 - Finding the element By.id: submit
+2024-07-01 14:22:17 INFO  TestBase:27 - Found the element By.id: submit
+2024-07-01 14:22:20 INFO  TestBase:23 - Finding the element By.cssSelector: h2.title b
+2024-07-01 14:22:20 INFO  TestBase:27 - Found the element By.cssSelector: h2.title b
+2024-07-01 14:22:20 INFO  TestBase:23 - Finding the element By.cssSelector: h2.title b
+2024-07-01 14:22:20 INFO  TestBase:27 - Found the element By.cssSelector: h2.title b
+2024-07-01 14:22:20 INFO  TestBase:23 - Finding the element By.cssSelector: div.pull-right a.btn
+2024-07-01 14:22:20 INFO  TestBase:27 - Found the element By.cssSelector: div.pull-right a.btn
+2024-07-01 14:22:20 INFO  TestBase:23 - Finding the element By.cssSelector: div.pull-right a.btn
+2024-07-01 14:22:20 INFO  TestBase:27 - Found the element By.cssSelector: div.pull-right a.btn
+2024-07-01 14:22:20 INFO  TestBase:23 - Finding the element By.cssSelector: div.pull-right a.btn
+2024-07-01 14:22:20 INFO  TestBase:27 - Found the element By.cssSelector: div.pull-right a.btn
+2024-07-01 14:22:20 INFO  TestBase:41 - Clicking on element [[ChromeDriver: chrome on windows (42ca60f26c53bf6268d09645be86b140)] -> css selector: div.pull-right a.btn]
+2024-07-01 14:22:22 INFO  TestBase:45 - Clicked on element [[ChromeDriver: chrome on windows (42ca60f26c53bf6268d09645be86b140)] -> css selector: div.pull-right a.btn]
+2024-07-01 14:22:22 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:22:22 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:22:22 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:22:22 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:last-of-type
+2024-07-01 14:22:22 INFO  TestBase:18 - Test Passed : validatePlaceOrderFunctionality
+2024-07-01 14:22:24 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 14:22:28 INFO  TestBase:13 - Test Started : validateRemoveItemFromCheckout
+2024-07-01 14:22:28 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:22:28 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:22:28 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:22:28 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:22:28 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:28 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:28 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:28 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:28 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:28 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:31 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 14:22:31 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 14:22:31 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 14:22:31 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 14:22:31 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 14:22:31 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(3)
+2024-07-01 14:22:31 INFO  TestBase:41 - Clicking on element [[ChromeDriver: chrome on windows (e9482ce51812e217385a04a9b462bf34)] -> css selector: ul.navbar-nav li:nth-of-type(3)]
+2024-07-01 14:22:33 INFO  TestBase:45 - Clicked on element [[ChromeDriver: chrome on windows (e9482ce51812e217385a04a9b462bf34)] -> css selector: ul.navbar-nav li:nth-of-type(3)]
+2024-07-01 14:22:33 INFO  TestBase:32 - Finding the element By.cssSelector: tbody tr
+2024-07-01 14:22:38 INFO  TestBase:36 - Found the element By.cssSelector: tbody tr
+2024-07-01 14:22:38 INFO  TestBase:32 - Finding the element By.cssSelector: tbody tr
+2024-07-01 14:22:43 INFO  TestBase:36 - Found the element By.cssSelector: tbody tr
+2024-07-01 14:22:43 INFO  TestBase:23 - Finding the element By.cssSelector: p.text-center b
+2024-07-01 14:22:43 INFO  TestBase:27 - Found the element By.cssSelector: p.text-center b
+2024-07-01 14:22:43 INFO  TestBase:23 - Finding the element By.cssSelector: p.text-center b
+2024-07-01 14:22:43 INFO  TestBase:27 - Found the element By.cssSelector: p.text-center b
+2024-07-01 14:22:43 INFO  TestBase:18 - Test Passed : validateRemoveItemFromCheckout
+2024-07-01 14:22:45 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 14:22:47 INFO  TestBase:13 - Test Started : validateContactUsFunctionality
+2024-07-01 14:22:47 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:22:47 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:22:47 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:22:47 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:22:47 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:48 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:48 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:48 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:48 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:22:48 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:24:56 INFO  TestBase:16 - Running the failed test : validateContactUsFunctionality
+2024-07-01 14:24:56 INFO  TestBase:29 - Test Skipped : validateContactUsFunctionality
+2024-07-01 14:24:57 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-01 14:25:00 INFO  TestBase:13 - Test Started : validateContactUsFunctionality
+2024-07-01 14:25:00 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:25:00 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-email']
+2024-07-01 14:25:00 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:25:00 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-password']
+2024-07-01 14:25:00 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:25:00 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:25:00 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:25:00 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:25:00 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:25:00 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-01 14:25:03 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 14:25:03 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 14:25:03 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 14:25:03 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 14:25:03 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 14:25:03 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-01 14:25:03 INFO  TestBase:41 - Clicking on element [[ChromeDriver: chrome on windows (10d7822a4fd4465db78e78a46c1aeca1)] -> css selector: ul.navbar-nav li:nth-of-type(9) a]
+2024-07-01 14:25:04 INFO  TestBase:45 - Clicked on element [[ChromeDriver: chrome on windows (10d7822a4fd4465db78e78a46c1aeca1)] -> css selector: ul.navbar-nav li:nth-of-type(9) a]
+2024-07-01 14:25:04 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='name']
+2024-07-01 14:25:04 INFO  TestBase:27 - Found the element By.xpath: //input[@name='name']
+2024-07-01 14:25:05 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='email']
+2024-07-01 14:25:05 INFO  TestBase:27 - Found the element By.xpath: //input[@name='email']
+2024-07-01 14:25:05 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='subject']
+2024-07-01 14:25:05 INFO  TestBase:27 - Found the element By.xpath: //input[@name='subject']
+2024-07-01 14:25:05 INFO  TestBase:23 - Finding the element By.id: message
+2024-07-01 14:25:05 INFO  TestBase:27 - Found the element By.id: message
+2024-07-01 14:25:05 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='submit']
+2024-07-01 14:25:05 INFO  TestBase:27 - Found the element By.xpath: //input[@name='submit']
+2024-07-01 14:25:05 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='submit']
+2024-07-01 14:25:05 INFO  TestBase:27 - Found the element By.xpath: //input[@name='submit']
+2024-07-01 14:25:05 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='submit']
+2024-07-01 14:25:05 INFO  TestBase:27 - Found the element By.xpath: //input[@name='submit']
+2024-07-01 14:25:06 INFO  TestBase:23 - Finding the element By.cssSelector: div.contact-form div.alert-success
+2024-07-01 14:25:06 INFO  TestBase:27 - Found the element By.cssSelector: div.contact-form div.alert-success
+2024-07-01 14:25:06 INFO  TestBase:23 - Finding the element By.cssSelector: div.contact-form div.alert-success
+2024-07-01 14:25:06 INFO  TestBase:27 - Found the element By.cssSelector: div.contact-form div.alert-success
+2024-07-01 14:25:06 INFO  TestBase:18 - Test Passed : validateContactUsFunctionality
+2024-07-02 18:03:58 INFO  TestBase:19 - Getting the website https://www.automationexercise.com/login
+2024-07-02 18:04:03 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-email']
+2024-07-02 18:04:04 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-email']
+2024-07-02 18:04:04 INFO  TestBase:23 - Finding the element By.cssSelector: input[data-qa='login-password']
+2024-07-02 18:04:04 INFO  TestBase:27 - Found the element By.cssSelector: input[data-qa='login-password']
+2024-07-02 18:04:04 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-02 18:04:05 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-02 18:04:05 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-02 18:04:05 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-02 18:04:05 INFO  TestBase:23 - Finding the element By.cssSelector: button[data-qa='login-button']
+2024-07-02 18:04:05 INFO  TestBase:27 - Found the element By.cssSelector: button[data-qa='login-button']
+2024-07-02 18:04:09 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-02 18:04:09 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-02 18:04:09 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-02 18:04:09 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-02 18:04:09 INFO  TestBase:23 - Finding the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-02 18:04:09 INFO  TestBase:27 - Found the element By.cssSelector: ul.navbar-nav li:nth-of-type(9) a
+2024-07-02 18:04:09 INFO  TestBase:41 - Clicking on element [[ChromeDriver: chrome on windows (61c3fcff4fbd73bb579084e884fce34e)] -> css selector: ul.navbar-nav li:nth-of-type(9) a]
+2024-07-02 18:04:11 INFO  TestBase:45 - Clicked on element [[ChromeDriver: chrome on windows (61c3fcff4fbd73bb579084e884fce34e)] -> css selector: ul.navbar-nav li:nth-of-type(9) a]
+2024-07-02 18:04:11 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='name']
+2024-07-02 18:04:11 INFO  TestBase:27 - Found the element By.xpath: //input[@name='name']
+2024-07-02 18:04:11 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='email']
+2024-07-02 18:04:11 INFO  TestBase:27 - Found the element By.xpath: //input[@name='email']
+2024-07-02 18:04:11 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='subject']
+2024-07-02 18:04:11 INFO  TestBase:27 - Found the element By.xpath: //input[@name='subject']
+2024-07-02 18:04:12 INFO  TestBase:23 - Finding the element By.id: message
+2024-07-02 18:04:12 INFO  TestBase:27 - Found the element By.id: message
+2024-07-02 18:04:12 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='submit']
+2024-07-02 18:04:12 INFO  TestBase:27 - Found the element By.xpath: //input[@name='submit']
+2024-07-02 18:04:12 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='submit']
+2024-07-02 18:04:12 INFO  TestBase:27 - Found the element By.xpath: //input[@name='submit']
+2024-07-02 18:04:12 INFO  TestBase:23 - Finding the element By.xpath: //input[@name='submit']
+2024-07-02 18:04:12 INFO  TestBase:27 - Found the element By.xpath: //input[@name='submit']
+2024-07-02 18:04:12 INFO  TestBase:23 - Finding the element By.cssSelector: div.contact-form div.alert-success
+2024-07-02 18:04:12 INFO  TestBase:27 - Found the element By.cssSelector: div.contact-form div.alert-success
+2024-07-02 18:04:12 INFO  TestBase:23 - Finding the element By.cssSelector: div.contact-form div.alert-success
+2024-07-02 18:04:12 INFO  TestBase:27 - Found the element By.cssSelector: div.contact-form div.alert-success
